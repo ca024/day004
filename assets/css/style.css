@@ -35,3 +35,8 @@ a:hover {
   /*Invert the colors of anchor element when hovered*/
   filter: invert(1);
 }
+
+#todays-challenge:hover {
+  /* Transform the element by scaling the size*/
+  transform: scale(1.1, 1.1);
+}
